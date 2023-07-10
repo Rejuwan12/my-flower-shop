@@ -33,11 +33,6 @@ body{
     width: 600px;
     bottom: 100px;
 }
-
-
-
-
-
 .btn{
     border-radius: 5px;
     background-color: #7227b880;
@@ -48,3 +43,59 @@ body{
     margin-top: 10px;
 }
 
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    
+}
+.section-1{
+    padding: 130px;
+   
+}
+.section-1-title{
+color: #474747;
+text-align: center;
+font-size: 30px;
+}
+.section-1-description{
+    color: #474747;
+    text-align: center;
+}
+.section1-image-title{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    /* text-align: center; */
+   
+}
+
+
+title{
+    display: flex;
+}
+.image-1{
+    background-color:violet;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    border-radius: 500px 500px 0 0;
+    padding-bottom: 0%;
+}
+.image-2{
+    background-color: antiquewhite;
+    background-repeat: no-repeat;
+    padding-top: 60px;
+    border-radius: 500px 500px 0 0;
+}
+.image-3{
+    background-color: aqua;
+    background-repeat: no-repeat;
+    border-radius: 500px 500px 0 0;
+}
+.image-title{
+    display: flex;
+    gap: 230px;
+    border-bottom: 0px solid ;
+}
+.mage-title-1{
+    /* border-bottom: 1px solid; */
+}
