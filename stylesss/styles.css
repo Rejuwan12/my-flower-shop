@@ -96,6 +96,12 @@ title{
     gap: 230px;
     border-bottom: 0px solid ;
 }
-.mage-title-1{
-    /* border-bottom: 1px solid; */
+.section2-image-title{
+    display: flex;
+    text-align: center;
+    background-color: antiquewhite;
+    justify-content: center;
+    gap: 80px;
+    padding: 50px ;
+    margin-bottom: 20px;
 }
