@@ -222,3 +222,27 @@ span{
 
     
 }
+.section-5{
+    background-image: url("../image/Rectangle\ 9.png");
+    padding: 80px;
+    max-width: 1140px;
+    margin: 0 auto;
+    justify-content: center;
+    margin-bottom: 100px;
+    }
+.section-5-title{
+    color: #474747;
+    text-align: center;
+}
+.section-5-description{
+    color: #474747;
+    text-align: center;
+}
+.input{
+    margin-top: 18px;
+    width: 500px;
+    height: 48px;
+    border: none;
+    margin-left: 270px;
+    border-radius: 5px;
+}
