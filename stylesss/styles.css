@@ -19,7 +19,7 @@ body{
 .header-content{
     padding: 40px 40px 40px 160px ;
     max-width: 500px;
-   margin:50px;
+    margin:50px;
     }
 
 .header-title{
@@ -131,4 +131,70 @@ title{
 }
 .section-3-title{
     font-weight: bold;
+}
+.header-3{
+    background-color: #FFF8F3;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    justify-content: space-evenly;
+
+}
+.header-3-content{
+    padding: 70px;
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+}
+
+
+.header-3-title{
+    font-size: 45px;
+    font-weight: 600px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.header-3-description{
+    display: flex;
+    width: 600px;
+}
+.header-2{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+.header-2-content{
+    max-width: 500px;
+    margin:50px;
+    align-items: center;
+}
+.header-2-title{
+    color: #474747;
+    margin-left: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+span{
+    color: aliceblue;
+}
+.header-2-description{
+    display: flex;
+    width: 600px;
+    bottom: 100px;
+}
+.descrip{
+    margin-left: 70px;
+}
+.btn-3{
+    border-radius: 5px;
+    background-color: red;
+    border: 0;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 12px;
+    margin-top: 10px;
+    color: aliceblue;
+    margin-left: 190px;
 }
