@@ -246,3 +246,19 @@ span{
     margin-left: 270px;
     border-radius: 5px;
 }
+footer{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    padding: 50px;
+    
+}
+.footer-title{
+    font-size: 55px;
+}
+.footer-description{
+    font-size: x-large;
+}
+.span2{
+    color: #e49dc4;
+}
